@@ -29,7 +29,7 @@
 <body class="developer" id="1">
    
         <nav class="navbar fixed-top navbar-expand-lg navbar-dark scrolling-navbar" style="float:right">
-            <a class="navbar-brand brand"  href="http://localhost/gossiper.ng/">DailyGossips NG<i class="fa fa-commenting"></i></a>
+            <a class="navbar-brand brand"  href="http://localhost/gossiper.ng/">Gossiper NG<i class="fa fa-commenting"></i></a>
             
             <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
             <span class="navbar-toggler-icon"></span>
