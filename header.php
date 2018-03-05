@@ -5,7 +5,7 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <meta http-equiv="x-ua-compatible" content="ie=edge">
-    <title>DAILY GOSSIPs | Home</title>
+    <title>Gossiper NG || Posting Annonymous gossips without a trace </title>
     
     
     <link rel="stylesheet" href="res/font-awesome/css/font-awesome.css">
@@ -82,7 +82,7 @@
                         </div>
                     </li>
                     <li class="nav-item">
-                       <a class="nav-link"><i class="fa fa-facebook"></i></a>
+                       <a class="nav-link" href="https://www.facebook.com/gossiperNg" target="_blank"><i class="fa fa-facebook"></i></a>
                     </li>
                     <li class="nav-item">
                         <a class="nav-link"><i class="fa fa-twitter"></i></a>
